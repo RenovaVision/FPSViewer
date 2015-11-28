@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FPSViewer</string>
+    <string name="fps_text">FPS Viewer Demo</string>
+</resources>
